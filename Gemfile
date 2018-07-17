@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '~> 3.1.5'
 gem 'bootstrap-will_paginate', '~> 1.0.0'
+gem 'rails-controller-testing'
 #jquery
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
